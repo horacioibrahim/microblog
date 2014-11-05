@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Este módulo contém as views (ou manipuladores) que respondem
-as requisições
+as requisições HTTP.
 """
 from app import app
 

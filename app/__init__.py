@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Inicializando nossa app. Similar a um construtor no escopo
-do módulo.
+do módulo. Se necessário aprenda mais sobre __init__.py em:
+http://turing.com.br/pydoc/2.7/tutorial/modules.html#pacotes
 """
 from flask import Flask
 import sys 
